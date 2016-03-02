@@ -1,2 +1,11 @@
-# I_Hate_Wordpress
-I hate it, but sometimes it's all you got. This is me documenting how to make Wordpress suck less.
+# I Hate Wordpress
+
+## Plugins
+### (Beware Conflictions)
+- https://wordpress.org/plugins/pods/
+- https://wordpress.org/plugins/piklist/
+- https://wordpress.org/plugins/gantry5/
+- https://wordpress.org/plugins/timber-library/
+
+## Guides
+- http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
