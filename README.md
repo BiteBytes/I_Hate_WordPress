@@ -9,6 +9,9 @@
 - https://wordpress.org/plugins/gantry5/
 - https://wordpress.org/plugins/timber-library/
 
+### Themes (Developer Friendly)
+- http://themble.com/bones/
+
 ### Backups
 - https://wordpress.org/plugins/revisr/
 - https://wordpress.org/plugins/backupwordpress/
