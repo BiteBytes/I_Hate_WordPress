@@ -5,7 +5,7 @@
 ### Development
 - https://wordpress.org/plugins/pods/
 - https://wordpress.org/plugins/piklist/
-- https://wordpress.org/plugins/gantry5/
+- https://wordpress.org/plugins/gantry5/ (requires Timber and Hydrogen theme)
 - https://wordpress.org/plugins/timber-library/
 
 ### Backups
