@@ -30,6 +30,8 @@
 
 ## Themes (Developer Friendly)
 - http://themble.com/bones/
+- http://html5blank.com/
+- http://underscores.me/
 
 ## Guides
 - http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
