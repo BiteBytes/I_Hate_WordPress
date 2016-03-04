@@ -17,6 +17,17 @@
 - https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/
 - https://wordpress.org/plugins/vaultpress/
 
+### SEO
+- https://wordpress.org/plugins/wordpress-seo/
+- https://wordpress.org/plugins/all-in-one-seo-pack/
+
+### Caching
+- https://wordpress.org/plugins/w3-total-cache/
+- https://wordpress.org/plugins/wp-super-cache/
+
+### Other
+- https://wordpress.org/plugins/wp-optimize/
+
 ## Themes (Developer Friendly)
 - http://themble.com/bones/
 
