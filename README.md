@@ -1,4 +1,4 @@
-# I Hate Wordpress
+# I Hate WordPress
 
 ## Plugins
 
