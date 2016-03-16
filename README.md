@@ -7,6 +7,8 @@
 - https://wordpress.org/plugins/piklist/
 - https://wordpress.org/plugins/gantry5/ (requires Timber and Hydrogen theme)
 - https://wordpress.org/plugins/timber-library/
+- https://wordpress.org/plugins/tinymce-advanced/
+- https://wordpress.org/plugins/theme-check/
 
 ### Backups
 - https://wordpress.org/plugins/revisr/
