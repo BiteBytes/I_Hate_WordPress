@@ -27,6 +27,11 @@
 - https://wordpress.org/plugins/w3-total-cache/
 - https://wordpress.org/plugins/wp-super-cache/
 
+### Ticketing/Helpdesk
+- https://wordpress.org/plugins/awesome-support/
+- https://wordpress.org/plugins/wp-support-plus-responsive-ticket-system/
+- https://wordpress.org/plugins/sola-support-tickets/
+
 ### Other
 - https://wordpress.org/plugins/wp-optimize/
 
