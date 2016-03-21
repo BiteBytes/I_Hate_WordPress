@@ -21,7 +21,6 @@
   - Database:
     - http://dbv.vizuina.com/
     - https://wordpress.org/plugins/wp-migrate-db/
-    - http://wp-sync-db.github.io/
 
 ### Security
 - https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/
