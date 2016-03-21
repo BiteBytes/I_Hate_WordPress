@@ -9,6 +9,9 @@
 - https://wordpress.org/plugins/timber-library/
 - https://wordpress.org/plugins/tinymce-advanced/
 - https://wordpress.org/plugins/theme-check/
+- https://github.com/mAAdhaTTah/wordpress-github-sync
+- https://wordpress.org/plugins/revisr/
+- http://versionpress.net/
 
 ### Backups
 - https://wordpress.org/plugins/revisr/
@@ -42,3 +45,4 @@
 
 ## Guides
 - http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
+- https://deliciousbrains.com/git-submodules-manage-wordpress-themes-and-plugins/
