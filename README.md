@@ -10,7 +10,7 @@
 - https://wordpress.org/plugins/tinymce-advanced/
 - https://wordpress.org/plugins/theme-check/
 - Git:
-  - https://github.com/mAAdhaTTah/wordpress-github-sync
+  - https://wordpress.org/plugins/wp-github-sync/
   - https://wordpress.org/plugins/revisr/
   - http://versionpress.net/
   - Database:
