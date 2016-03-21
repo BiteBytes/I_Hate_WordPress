@@ -9,9 +9,11 @@
 - https://wordpress.org/plugins/timber-library/
 - https://wordpress.org/plugins/tinymce-advanced/
 - https://wordpress.org/plugins/theme-check/
-- https://github.com/mAAdhaTTah/wordpress-github-sync
-- https://wordpress.org/plugins/revisr/
-- http://versionpress.net/
+- Git:
+  - https://github.com/mAAdhaTTah/wordpress-github-sync
+  - https://wordpress.org/plugins/revisr/
+  - http://versionpress.net/
+  - http://dbv.vizuina.com/
 
 ### Backups
 - https://wordpress.org/plugins/revisr/
