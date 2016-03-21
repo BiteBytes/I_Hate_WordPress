@@ -9,6 +9,11 @@
 - https://wordpress.org/plugins/timber-library/
 - https://wordpress.org/plugins/tinymce-advanced/
 - https://wordpress.org/plugins/theme-check/
+
+
+### Backups
+- https://wordpress.org/plugins/backupwordpress/
+- https://wordpress.org/plugins/updraftplus/
 - Git:
   - https://wordpress.org/plugins/wp-github-sync/
   - https://wordpress.org/plugins/revisr/
@@ -17,11 +22,6 @@
     - http://dbv.vizuina.com/
     - https://wordpress.org/plugins/wp-migrate-db/
     - http://wp-sync-db.github.io/
-
-### Backups
-- https://wordpress.org/plugins/revisr/
-- https://wordpress.org/plugins/backupwordpress/
-- https://wordpress.org/plugins/updraftplus/
 
 ### Security
 - https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/
