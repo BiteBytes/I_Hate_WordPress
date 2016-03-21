@@ -13,7 +13,10 @@
   - https://github.com/mAAdhaTTah/wordpress-github-sync
   - https://wordpress.org/plugins/revisr/
   - http://versionpress.net/
-  - http://dbv.vizuina.com/
+  - Database:
+    - http://dbv.vizuina.com/
+    - https://wordpress.org/plugins/wp-migrate-db/
+    - http://wp-sync-db.github.io/
 
 ### Backups
 - https://wordpress.org/plugins/revisr/
