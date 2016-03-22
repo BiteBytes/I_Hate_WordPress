@@ -50,3 +50,8 @@
 ## Guides
 - http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
 - https://deliciousbrains.com/git-submodules-manage-wordpress-themes-and-plugins/
+
+## Other Tools
+- http://wckr.github.io/
+- http://wp-cli.org/
+- https://github.com/sebastianbergmann/phpunit
