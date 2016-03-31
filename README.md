@@ -56,3 +56,6 @@
 - http://wckr.github.io/
 - http://wp-cli.org/
 - https://github.com/sebastianbergmann/phpunit
+- http://getonepager.com/
+- http://www.layerswp.com/
+- http://cloud-press.net/
