@@ -46,6 +46,7 @@
 - http://themble.com/bones/
 - http://html5blank.com/
 - http://underscores.me/
+- https://roots.io/sage/
 
 ## Guides
 - http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
@@ -53,6 +54,7 @@
 - https://github.com/Tarendai/WordPress-The-Right-Way
 
 ## Other Tools
+- https://roots.io/bedrock/
 - http://wckr.github.io/
 - http://wp-cli.org/
 - https://github.com/sebastianbergmann/phpunit
