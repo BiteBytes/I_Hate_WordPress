@@ -39,6 +39,11 @@
 - https://wordpress.org/plugins/wp-support-plus-responsive-ticket-system/
 - https://wordpress.org/plugins/sola-support-tickets/
 
+### Forums
+- https://wordpress.org/plugins/bbpress/
+- https://wordpress.org/plugins/buddypress/
+- http://simple-press.com/
+
 ### Other
 - https://wordpress.org/plugins/wp-optimize/
 
