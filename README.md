@@ -50,6 +50,7 @@
 ## Themes (Developer Friendly)
 - http://themble.com/bones/
 - http://html5blank.com/
+- https://github.com/murtaugh/HTML5-Reset-WordPress-Theme
 - http://underscores.me/
 - https://roots.io/sage/
 
