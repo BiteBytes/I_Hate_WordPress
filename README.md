@@ -57,6 +57,11 @@
 - http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
 - https://deliciousbrains.com/git-submodules-manage-wordpress-themes-and-plugins/
 - https://github.com/Tarendai/WordPress-The-Right-Way
+- https://developer.wordpress.org/plugins/the-basics/best-practices/
+- https://vip.wordpress.com/documentation/best-practices/
+- https://codex.wordpress.org/Child_Themes
+- https://codex.wordpress.org/Writing_a_Plugin
+- https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
 
 ## Other Tools
 - https://roots.io/bedrock/
