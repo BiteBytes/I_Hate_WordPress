@@ -10,6 +10,7 @@
 - https://wordpress.org/plugins/tinymce-advanced/
 - https://wordpress.org/plugins/theme-check/
 - https://metabox.io/
+- https://wordpress.org/plugins/siteorigin-panels/
 
 ### Backups
 - https://wordpress.org/plugins/backupwordpress/
@@ -70,6 +71,7 @@
 - http://v2.wp-api.org/
 - http://wppb.io/
 - http://unyson.io/
+- http://livecomposerplugin.com/
 
 ## Guides
 - http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
