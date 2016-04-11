@@ -57,6 +57,19 @@
 - http://underscores.me/
 - https://roots.io/sage/
 - https://foundationpress.olefredrik.com/
+- http://www.layerswp.com/
+
+## Plugin Development
+- https://roots.io/bedrock/
+- http://wckr.github.io/
+- http://wp-cli.org/
+- https://github.com/sebastianbergmann/phpunit
+- http://getonepager.com/
+- http://cloud-press.net/
+- https://github.com/markjaquith/WordPress-Skeleton
+- http://v2.wp-api.org/
+- http://wppb.io/
+- http://unyson.io/
 
 ## Guides
 - http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
@@ -67,16 +80,3 @@
 - https://codex.wordpress.org/Child_Themes
 - https://codex.wordpress.org/Writing_a_Plugin
 - https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
-
-## Other Development Tools
-- https://roots.io/bedrock/
-- http://wckr.github.io/
-- http://wp-cli.org/
-- https://github.com/sebastianbergmann/phpunit
-- http://getonepager.com/
-- http://www.layerswp.com/
-- http://cloud-press.net/
-- https://github.com/markjaquith/WordPress-Skeleton
-- http://v2.wp-api.org/
-- http://wppb.io/
-- http://unyson.io/
