@@ -9,7 +9,7 @@
 - https://wordpress.org/plugins/timber-library/
 - https://wordpress.org/plugins/tinymce-advanced/
 - https://wordpress.org/plugins/theme-check/
-
+- https://metabox.io/
 
 ### Backups
 - https://wordpress.org/plugins/backupwordpress/
@@ -34,6 +34,9 @@
 - https://wordpress.org/plugins/w3-total-cache/
 - https://wordpress.org/plugins/wp-super-cache/
 
+### Commerce
+- https://www.woothemes.com/woocommerce/
+
 ### Ticketing/Helpdesk
 - https://wordpress.org/plugins/awesome-support/
 - https://wordpress.org/plugins/wp-support-plus-responsive-ticket-system/
@@ -53,6 +56,7 @@
 - https://github.com/murtaugh/HTML5-Reset-WordPress-Theme
 - http://underscores.me/
 - https://roots.io/sage/
+- https://foundationpress.olefredrik.com/
 
 ## Guides
 - http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
@@ -64,7 +68,7 @@
 - https://codex.wordpress.org/Writing_a_Plugin
 - https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
 
-## Other Tools
+## Other Development Tools
 - https://roots.io/bedrock/
 - http://wckr.github.io/
 - http://wp-cli.org/
@@ -72,3 +76,7 @@
 - http://getonepager.com/
 - http://www.layerswp.com/
 - http://cloud-press.net/
+- https://github.com/markjaquith/WordPress-Skeleton
+- http://v2.wp-api.org/
+- http://wppb.io/
+- http://unyson.io/
