@@ -1,5 +1,23 @@
 # I Hate WordPress
 
+## Non-plugin Development Tools
+- https://roots.io/bedrock/
+- http://wckr.github.io/
+- http://wp-cli.org/
+- https://github.com/sebastianbergmann/phpunit
+- https://github.com/markjaquith/WordPress-Skeleton
+- http://v2.wp-api.org/
+- http://wppb.io/
+
+## Themes (Developer Friendly)
+- http://themble.com/bones/
+- http://html5blank.com/
+- https://github.com/murtaugh/HTML5-Reset-WordPress-Theme
+- http://underscores.me/
+- https://roots.io/sage/
+- https://foundationpress.olefredrik.com/
+- http://www.layerswp.com/
+
 ## Plugins
 
 ### Development
@@ -9,8 +27,11 @@
 - https://wordpress.org/plugins/timber-library/
 - https://wordpress.org/plugins/tinymce-advanced/
 - https://wordpress.org/plugins/theme-check/
-- https://metabox.io/
+- https://wordpress.org/plugins/meta-box/
+- https://wordpress.org/plugins/unyson/
 - https://wordpress.org/plugins/siteorigin-panels/
+- https://wordpress.org/plugins/tx-onepager/
+- https://wordpress.org/plugins/live-composer-page-builder/
 
 ### Backups
 - https://wordpress.org/plugins/backupwordpress/
@@ -50,28 +71,6 @@
 
 ### Other
 - https://wordpress.org/plugins/wp-optimize/
-
-## Themes (Developer Friendly)
-- http://themble.com/bones/
-- http://html5blank.com/
-- https://github.com/murtaugh/HTML5-Reset-WordPress-Theme
-- http://underscores.me/
-- https://roots.io/sage/
-- https://foundationpress.olefredrik.com/
-- http://www.layerswp.com/
-
-## Other Tools
-- https://roots.io/bedrock/
-- http://wckr.github.io/
-- http://wp-cli.org/
-- https://github.com/sebastianbergmann/phpunit
-- http://getonepager.com/
-- http://cloud-press.net/
-- https://github.com/markjaquith/WordPress-Skeleton
-- http://v2.wp-api.org/
-- http://wppb.io/
-- http://unyson.io/
-- http://livecomposerplugin.com/
 
 ## Guides
 - http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
