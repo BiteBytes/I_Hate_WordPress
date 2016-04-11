@@ -59,7 +59,7 @@
 - https://foundationpress.olefredrik.com/
 - http://www.layerswp.com/
 
-## Plugin Development
+## Other Tools
 - https://roots.io/bedrock/
 - http://wckr.github.io/
 - http://wp-cli.org/
