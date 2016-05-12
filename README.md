@@ -32,6 +32,7 @@
 - https://wordpress.org/plugins/siteorigin-panels/
 - https://wordpress.org/plugins/tx-onepager/
 - https://wordpress.org/plugins/live-composer-page-builder/
+- https://wordpress.org/plugins/advanced-custom-fields/
 
 ### Backups
 - https://wordpress.org/plugins/backupwordpress/
