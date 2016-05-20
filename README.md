@@ -48,6 +48,8 @@
 ### Security
 - https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/
 - https://wordpress.org/plugins/vaultpress/
+- https://wordpress.org/plugins/better-wp-security/
+- https://wordpress.org/plugins/wordfence/
 
 ### SEO
 - https://wordpress.org/plugins/wordpress-seo/
@@ -82,3 +84,4 @@
 - https://codex.wordpress.org/Child_Themes
 - https://codex.wordpress.org/Writing_a_Plugin
 - https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
+- https://www.elegantthemes.com/blog/tips-tricks/how-to-hide-the-fact-that-your-website-runs-on-wordpress
