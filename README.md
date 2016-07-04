@@ -93,3 +93,4 @@
 - https://codex.wordpress.org/Writing_a_Plugin
 - https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
 - https://www.elegantthemes.com/blog/tips-tricks/how-to-hide-the-fact-that-your-website-runs-on-wordpress
+- https://premium.wpmudev.org/blog/powerful-must-have-tools-for-every-wordpress-developer/
