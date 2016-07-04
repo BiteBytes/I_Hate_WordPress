@@ -8,6 +8,7 @@
 - https://github.com/markjaquith/WordPress-Skeleton
 - http://v2.wp-api.org/
 - http://wppb.io/
+- http://framework.themosis.com/
 
 ## Themes (Developer Friendly)
 - http://themble.com/bones/
