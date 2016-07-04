@@ -94,3 +94,11 @@
 - https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
 - https://www.elegantthemes.com/blog/tips-tricks/how-to-hide-the-fact-that-your-website-runs-on-wordpress
 - https://premium.wpmudev.org/blog/powerful-must-have-tools-for-every-wordpress-developer/
+
+### Plugin Development
+- http://www.hongkiat.com/blog/beginners-guide-to-wordpress-plugin-development/
+- https://premium.wpmudev.org/blog/wordpress-plugin-development-guide/
+- https://www.smashingmagazine.com/2011/09/how-to-create-a-wordpress-plugin/
+- https://codex.wordpress.org/Writing_a_Plugin
+- https://www.elegantthemes.com/blog/tips-tricks/how-to-create-a-wordpress-plugin
+- https://scotch.io/tutorials/how-to-build-a-wordpress-plugin-part-1
