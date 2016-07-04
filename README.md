@@ -31,6 +31,7 @@
 - https://wordpress.org/plugins/gantry5/ (requires Timber and Hydrogen theme)
 - https://wordpress.org/plugins/timber-library/
 - https://wordpress.org/plugins/tinymce-advanced/
+- https://wordpress.org/plugins/beaver-builder-lite-version/
 - https://wordpress.org/plugins/theme-check/
 - https://wordpress.org/plugins/meta-box/
 - https://wordpress.org/plugins/unyson/
@@ -41,6 +42,10 @@
 - https://wordpress.org/plugins/developer/
 - https://wordpress.org/plugins/regenerate-thumbnails/
 - https://wordpress.org/plugins/query-monitor/
+
+### Contact Forms
+- https://wordpress.org/plugins/ninja-forms/
+- https://wordpress.org/plugins/contact-form-7/
 
 ### Backups
 - https://wordpress.org/plugins/backupwordpress/
@@ -94,6 +99,13 @@
 - https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
 - https://www.elegantthemes.com/blog/tips-tricks/how-to-hide-the-fact-that-your-website-runs-on-wordpress
 - https://premium.wpmudev.org/blog/powerful-must-have-tools-for-every-wordpress-developer/
+
+### PHP Security / Protection
+- https://stackoverflow.com/questions/13661406/deny-access-to-a-php-file-nginx
+- https://mediatemple.net/community/products/dv/207726636/enable-gzip-compression-for-nginx
+- https://www.digitalocean.com/community/tutorials/how-to-protect-wordpress-from-xml-rpc-attacks-on-ubuntu-14-04
+- https://blog.sucuri.net/2015/10/brute-force-amplification-attacks-against-wordpress-xmlrpc.html
+- https://stackoverflow.com/questions/25098029/connect-to-unix-var-run-php5-fpm-sock-failed-what-is-wrong-with-my-setup
 
 ### Plugin Development
 - http://www.hongkiat.com/blog/beginners-guide-to-wordpress-plugin-development/
