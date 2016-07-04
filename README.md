@@ -11,6 +11,7 @@
 - http://framework.themosis.com/
 - https://github.com/jgrossi/corcel
 - https://github.com/wordplate/wordplate
+- https://elementor.com/
 
 ## Themes (Developer Friendly)
 - http://themble.com/bones/
@@ -22,7 +23,6 @@
 - http://www.layerswp.com/
 - https://thethemefoundry.com/wordpress-themes/make/
 - https://www.themexpert.com/wordpress-themes/agencia
-- https://elementor.com/
 
 ## Plugins
 
