@@ -65,6 +65,14 @@
 - https://wordpress.org/plugins/better-wp-security/
 - https://wordpress.org/plugins/wordfence/
 
+### Authentication
+- https://wordpress.org/plugins/miniorange-2-factor-authentication/
+- https://wordpress.org/plugins/miniorange-otp-verification/
+
+### Social Media
+- https://wordpress.org/plugins/super-socializer/
+- https://wordpress.org/plugins/ultimate-social-media-plus/
+
 ### SEO
 - https://wordpress.org/plugins/wordpress-seo/
 - https://wordpress.org/plugins/all-in-one-seo-pack/
