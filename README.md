@@ -9,6 +9,8 @@
 - http://v2.wp-api.org/
 - http://wppb.io/
 - http://framework.themosis.com/
+- https://github.com/jgrossi/corcel
+- https://github.com/wordplate/wordplate
 
 ## Themes (Developer Friendly)
 - http://themble.com/bones/
@@ -36,6 +38,9 @@
 - https://wordpress.org/plugins/tx-onepager/
 - https://wordpress.org/plugins/live-composer-page-builder/
 - https://wordpress.org/plugins/advanced-custom-fields/
+- https://wordpress.org/plugins/developer/
+- https://wordpress.org/plugins/regenerate-thumbnails/
+- https://wordpress.org/plugins/query-monitor/
 
 ### Backups
 - https://wordpress.org/plugins/backupwordpress/
