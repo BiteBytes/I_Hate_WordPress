@@ -116,6 +116,10 @@
 - https://blog.sucuri.net/2015/10/brute-force-amplification-attacks-against-wordpress-xmlrpc.html
 - https://stackoverflow.com/questions/25098029/connect-to-unix-var-run-php5-fpm-sock-failed-what-is-wrong-with-my-setup
 
+### Client Portal
+- https://wordpress.org/support/topic/how-to-a-simple-client-portal
+- https://wordpress.org/support/topic/my-crack-at-a-client-login-sectioncustomer-portal?replies=15
+
 ### Plugin Development
 - http://www.hongkiat.com/blog/beginners-guide-to-wordpress-plugin-development/
 - https://premium.wpmudev.org/blog/wordpress-plugin-development-guide/
@@ -123,3 +127,7 @@
 - https://codex.wordpress.org/Writing_a_Plugin
 - https://www.elegantthemes.com/blog/tips-tricks/how-to-create-a-wordpress-plugin
 - https://scotch.io/tutorials/how-to-build-a-wordpress-plugin-part-1
+
+### Widget Development
+- https://premium.wpmudev.org/blog/how-to-build-wordpress-widgets-like-a-pro/
+- https://codex.wordpress.org/Widgets_API
