@@ -43,10 +43,15 @@
 - https://wordpress.org/plugins/developer/
 - https://wordpress.org/plugins/regenerate-thumbnails/
 - https://wordpress.org/plugins/query-monitor/
+- https://wordpress.org/plugins/shortcodes-ultimate/
 
 ### Contact Forms
 - https://wordpress.org/plugins/ninja-forms/
 - https://wordpress.org/plugins/contact-form-7/
+
+### Email / Mailing List
+- https://wordpress.org/plugins/wysija-newsletters/
+- https://wordpress.org/plugins/participants-database/
 
 ### Backups
 - https://wordpress.org/plugins/backupwordpress/
@@ -72,10 +77,13 @@
 ### Social Media
 - https://wordpress.org/plugins/super-socializer/
 - https://wordpress.org/plugins/ultimate-social-media-plus/
+- https://wordpress.org/plugins/ultimate-social-media-icons/
 
 ### SEO
-- https://wordpress.org/plugins/wordpress-seo/
 - https://wordpress.org/plugins/all-in-one-seo-pack/
+- https://wordpress.org/plugins/autodescription/
+- https://wordpress.org/plugins/wordpress-seo/
+- https://wordpress.org/plugins/google-sitemap-generator/
 
 ### Caching
 - https://wordpress.org/plugins/w3-total-cache/
@@ -96,6 +104,7 @@
 
 ### Other
 - https://wordpress.org/plugins/wp-optimize/
+- https://wordpress.org/plugins/tablepress/
 
 ## Guides
 - http://sidigital.co/blog/disconnect-your-frontend-from-wordpress
