@@ -129,6 +129,13 @@
 - https://wordpress.org/support/topic/how-to-a-simple-client-portal
 - https://wordpress.org/support/topic/my-crack-at-a-client-login-sectioncustomer-portal?replies=15
 
+### Theme Development
+- https://codex.wordpress.org/Theme_Development
+- https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/
+- http://webdesign.tutsplus.com/tutorials/building-a-wordpress-theme-in-60-seconds--cms-24315
+- http://www.wpexplorer.com/create-wordpress-theme-html-1/
+- https://themeshaper.com/2009/06/22/wordpress-themes-templates-tutorial/
+
 ### Plugin Development
 - http://www.hongkiat.com/blog/beginners-guide-to-wordpress-plugin-development/
 - https://premium.wpmudev.org/blog/wordpress-plugin-development-guide/
