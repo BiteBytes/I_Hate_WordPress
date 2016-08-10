@@ -45,6 +45,12 @@
 - https://wordpress.org/plugins/query-monitor/
 - https://wordpress.org/plugins/shortcodes-ultimate/
 
+### Multiple Site Management
+- https://wordpress.org/plugins/iwp-client/
+- https://wordpress.org/plugins/worker/
+- https://wordpress.org/plugins/mainwp/
+- https://wordpress.org/plugins/cms-commander-client/
+
 ### Contact Forms
 - https://wordpress.org/plugins/ninja-forms/
 - https://wordpress.org/plugins/contact-form-7/
@@ -73,6 +79,11 @@
 ### Authentication
 - https://wordpress.org/plugins/miniorange-2-factor-authentication/
 - https://wordpress.org/plugins/miniorange-otp-verification/
+
+### Downloads
+- https://wordpress.org/plugins/wp-file-upload/
+- https://wordpress.org/plugins/download-monitor/
+- 
 
 ### Social Media
 - https://wordpress.org/plugins/super-socializer/
