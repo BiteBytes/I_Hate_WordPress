@@ -83,7 +83,6 @@
 ### Downloads
 - https://wordpress.org/plugins/wp-file-upload/
 - https://wordpress.org/plugins/download-monitor/
-- 
 
 ### Social Media
 - https://wordpress.org/plugins/super-socializer/
