@@ -75,6 +75,7 @@
 - https://wordpress.org/plugins/vaultpress/
 - https://wordpress.org/plugins/better-wp-security/
 - https://wordpress.org/plugins/wordfence/
+- https://wordpress.org/plugins/really-simple-ssl/
 
 ### Authentication
 - https://wordpress.org/plugins/miniorange-2-factor-authentication/
