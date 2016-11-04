@@ -78,6 +78,8 @@
 - https://wordpress.org/plugins/really-simple-ssl/
 
 ### Authentication
+- https://wordpress.org/plugins/wpclef/
+- https://wordpress.org/plugins/two-factor-authentication/
 - https://wordpress.org/plugins/miniorange-2-factor-authentication/
 - https://wordpress.org/plugins/miniorange-otp-verification/
 
