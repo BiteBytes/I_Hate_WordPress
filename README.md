@@ -44,6 +44,7 @@
 - https://wordpress.org/plugins/regenerate-thumbnails/
 - https://wordpress.org/plugins/query-monitor/
 - https://wordpress.org/plugins/shortcodes-ultimate/
+- https://wordpress.org/plugins/query-monitor/
 
 ### Multiple Site Management
 - https://wordpress.org/plugins/iwp-client/
