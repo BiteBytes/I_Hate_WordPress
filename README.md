@@ -121,6 +121,11 @@
 - https://wordpress.org/plugins/buddypress/
 - http://simple-press.com/
 
+### Accessibility
+- https://wordpress.org/plugins/wp-accessibility/
+- https://wordpress.org/plugins/wa11y/
+- https://wordpress.org/plugins/wp-tota11y/
+
 ### Other
 - https://wordpress.org/plugins/wp-optimize/
 - https://wordpress.org/plugins/tablepress/
