@@ -2,7 +2,6 @@
 
 ## Non-plugin Development Tools
 - https://roots.io/bedrock/
-- http://wckr.github.io/
 - http://wp-cli.org/
 - https://github.com/sebastianbergmann/phpunit
 - https://github.com/markjaquith/WordPress-Skeleton
@@ -13,10 +12,12 @@
 - https://github.com/wordplate/wordplate
 - https://elementor.com/
 
-#### Vagrant Boxes
+#### Vagrant / Docker
 - http://vccw.cc/
 - https://varyingvagrantvagrants.org/
 - https://box.scotch.io/
+- https://roots.io/trellis/
+- http://wckr.github.io/
 
 ## Themes (Developer Friendly)
 - http://themble.com/bones/
