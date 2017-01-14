@@ -10,7 +10,6 @@
 - http://framework.themosis.com/
 - https://github.com/jgrossi/corcel
 - https://github.com/wordplate/wordplate
-- https://elementor.com/
 
 #### Vagrant / Docker
 - http://vccw.cc/
@@ -26,32 +25,34 @@
 - http://underscores.me/
 - https://roots.io/sage/
 - https://foundationpress.olefredrik.com/
-- http://www.layerswp.com/
-- https://thethemefoundry.com/wordpress-themes/make/
-- https://www.themexpert.com/wordpress-themes/agencia
 
 ## Plugins
 
 ### Development
+- https://wordpress.org/plugins/what-the-file/
 - https://wordpress.org/plugins/pods/
 - https://wordpress.org/plugins/piklist/
-- https://wordpress.org/plugins/gantry5/ (requires Timber and Hydrogen theme)
 - https://wordpress.org/plugins/timber-library/
 - https://wordpress.org/plugins/tinymce-advanced/
-- https://wordpress.org/plugins/beaver-builder-lite-version/
 - https://wordpress.org/plugins/theme-check/
 - https://wordpress.org/plugins/meta-box/
-- https://wordpress.org/plugins/unyson/
-- https://wordpress.org/plugins/siteorigin-panels/
-- https://wordpress.org/plugins/tx-onepager/
-- https://wordpress.org/plugins/live-composer-page-builder/
 - https://wordpress.org/plugins/advanced-custom-fields/
 - https://wordpress.org/plugins/developer/
 - https://wordpress.org/plugins/regenerate-thumbnails/
 - https://wordpress.org/plugins/query-monitor/
 - https://wordpress.org/plugins/shortcodes-ultimate/
-- https://wordpress.org/plugins/query-monitor/
 - https://wordpress.org/plugins/adminimize/
+
+### Page Builders
+- https://wordpress.org/plugins/gantry5/ (requires Timber and Hydrogen theme)
+- https://wordpress.org/plugins/beaver-builder-lite-version/
+- https://wordpress.org/plugins/unyson/
+- https://wordpress.org/plugins/siteorigin-panels/
+- https://wordpress.org/plugins/tx-onepager/
+- http://www.layerswp.com/
+- https://thethemefoundry.com/wordpress-themes/make/
+- https://wordpress.org/plugins/live-composer-page-builder/
+- https://elementor.com/
 
 ### Multiple Site Management
 - https://wordpress.org/plugins/iwp-client/
@@ -113,6 +114,8 @@
 
 ### Commerce
 - https://www.woothemes.com/woocommerce/
+- https://wordpress.org/plugins/stripe/
+- https://wordpress.org/plugins/wordpress-simple-paypal-shopping-cart/
 
 ### Ticketing/Helpdesk
 - https://wordpress.org/plugins/awesome-support/
