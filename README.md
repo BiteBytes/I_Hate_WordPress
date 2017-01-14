@@ -60,16 +60,16 @@
 - https://wordpress.org/plugins/cms-commander-client/
 
 ### Contact Forms
-- https://wordpress.org/plugins/ninja-forms/
 - https://wordpress.org/plugins/contact-form-7/
+- https://wordpress.org/plugins/ninja-forms/
 
 ### Email / Mailing List
-- https://wordpress.org/plugins/wysija-newsletters/
 - https://wordpress.org/plugins/participants-database/
+- https://wordpress.org/plugins/wysija-newsletters/
 
 ### Backups
-- https://wordpress.org/plugins/backupwordpress/
 - https://wordpress.org/plugins/updraftplus/
+- https://wordpress.org/plugins/backupwordpress/
 - Git:
   - https://wordpress.org/plugins/wp-github-sync/
   - https://wordpress.org/plugins/revisr/
@@ -86,8 +86,8 @@
 - https://wordpress.org/plugins/really-simple-ssl/
 
 ### Authentication
-- https://wordpress.org/plugins/wpclef/
 - https://wordpress.org/plugins/two-factor-authentication/
+- https://wordpress.org/plugins/wpclef/
 - https://wordpress.org/plugins/miniorange-2-factor-authentication/
 - https://wordpress.org/plugins/miniorange-otp-verification/
 
@@ -96,17 +96,18 @@
 - https://wordpress.org/plugins/download-monitor/
 
 ### Social Media
-- https://wordpress.org/plugins/super-socializer/
 - https://wordpress.org/plugins/ultimate-social-media-plus/
+- https://wordpress.org/plugins/super-socializer/
 - https://wordpress.org/plugins/ultimate-social-media-icons/
 
 ### SEO
+- https://wordpress.org/plugins/wordpress-seo/
 - https://wordpress.org/plugins/all-in-one-seo-pack/
 - https://wordpress.org/plugins/autodescription/
-- https://wordpress.org/plugins/wordpress-seo/
 - https://wordpress.org/plugins/google-sitemap-generator/
 
 ### Caching
+- https://wordpress.org/plugins/wp-fastest-cache/
 - https://wordpress.org/plugins/w3-total-cache/
 - https://wordpress.org/plugins/wp-super-cache/
 
