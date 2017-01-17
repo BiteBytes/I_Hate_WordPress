@@ -112,6 +112,10 @@
 - https://wordpress.org/plugins/w3-total-cache/
 - https://wordpress.org/plugins/wp-super-cache/
 
+### Image Compression
+- https://wordpress.org/plugins/wp-smushit/
+- https://wordpress.org/plugins/ewww-image-optimizer/
+
 ### Commerce
 - https://www.woothemes.com/woocommerce/
 - https://wordpress.org/plugins/stripe/
