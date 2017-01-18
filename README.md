@@ -71,6 +71,7 @@
 ### Backups
 - https://wordpress.org/plugins/updraftplus/
 - https://wordpress.org/plugins/backupwordpress/
+- https://wordpress.org/plugins/duplicator/
 - Git:
   - https://wordpress.org/plugins/wp-github-sync/
   - https://wordpress.org/plugins/revisr/
@@ -151,6 +152,7 @@
 - https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
 - https://www.elegantthemes.com/blog/tips-tricks/how-to-hide-the-fact-that-your-website-runs-on-wordpress
 - https://premium.wpmudev.org/blog/powerful-must-have-tools-for-every-wordpress-developer/
+- https://premium.wpmudev.org/blog/ultimate-guide-multisite/
 
 ### PHP Security / Protection
 - https://stackoverflow.com/questions/13661406/deny-access-to-a-php-file-nginx
