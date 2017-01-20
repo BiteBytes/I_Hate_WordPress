@@ -5,7 +5,6 @@
 - http://wp-cli.org/
 - https://github.com/sebastianbergmann/phpunit
 - https://github.com/markjaquith/WordPress-Skeleton
-- http://v2.wp-api.org/
 - http://wppb.io/
 - http://framework.themosis.com/
 - https://github.com/jgrossi/corcel
@@ -19,6 +18,10 @@
 - http://wckr.github.io/
 - https://local.getflywheel.com/
 - https://ngrok.com/
+
+## API
+- http://v2.wp-api.org/
+- http://v2.wp-api.org/extending/adding/
 
 ## Themes (Developer Friendly)
 - http://themble.com/bones/
@@ -155,6 +158,8 @@
 - https://www.elegantthemes.com/blog/tips-tricks/how-to-hide-the-fact-that-your-website-runs-on-wordpress
 - https://premium.wpmudev.org/blog/powerful-must-have-tools-for-every-wordpress-developer/
 - https://premium.wpmudev.org/blog/ultimate-guide-multisite/
+- https://premium.wpmudev.org/blog/using-wordpress-rest-api/
+- http://coderrr.com/create-an-api-endpoint-in-wordpress/
 
 ### PHP Security / Protection
 - https://stackoverflow.com/questions/13661406/deny-access-to-a-php-file-nginx
