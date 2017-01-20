@@ -104,10 +104,10 @@
 - https://wordpress.org/plugins/ultimate-social-media-icons/
 
 ### SEO
-- https://wordpress.org/plugins/wordpress-seo/
-- https://wordpress.org/plugins/all-in-one-seo-pack/
 - https://wordpress.org/plugins/autodescription/
 - https://wordpress.org/plugins/google-sitemap-generator/
+- https://wordpress.org/plugins/wordpress-seo/
+- https://wordpress.org/plugins/all-in-one-seo-pack/
 
 ### Caching
 - https://wordpress.org/plugins/wp-fastest-cache/
