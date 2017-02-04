@@ -35,18 +35,22 @@
 
 ### Development
 - https://wordpress.org/plugins/what-the-file/
-- https://wordpress.org/plugins/pods/
 - https://wordpress.org/plugins/piklist/
 - https://wordpress.org/plugins/timber-library/
 - https://wordpress.org/plugins/tinymce-advanced/
 - https://wordpress.org/plugins/theme-check/
 - https://wordpress.org/plugins/meta-box/
-- https://wordpress.org/plugins/advanced-custom-fields/
 - https://wordpress.org/plugins/developer/
 - https://wordpress.org/plugins/regenerate-thumbnails/
 - https://wordpress.org/plugins/query-monitor/
 - https://wordpress.org/plugins/shortcodes-ultimate/
 - https://wordpress.org/plugins/adminimize/
+
+### Custom Fields
+- https://wordpress.org/plugins/advanced-custom-fields/
+- https://wordpress.org/plugins/pods/
+- https://wordpress.org/plugins/wck-custom-fields-and-custom-post-types-creator/
+- https://wordpress.org/plugins/custom-field-suite/
 
 ### Page Builders
 - https://wordpress.org/plugins/gantry5/ (requires Timber and Hydrogen theme)
