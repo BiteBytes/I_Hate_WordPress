@@ -51,6 +51,8 @@
 - https://wordpress.org/plugins/pods/
 - https://wordpress.org/plugins/wck-custom-fields-and-custom-post-types-creator/
 - https://wordpress.org/plugins/custom-field-suite/
+- https://wordpress.org/plugins-wp/custom-post-type-ui/
+- https://wordpress.org/plugins-wp/types/
 
 ### Page Builders
 - https://wordpress.org/plugins/gantry5/ (requires Timber and Hydrogen theme)
