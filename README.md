@@ -64,6 +64,7 @@
 - https://thethemefoundry.com/wordpress-themes/make/
 - https://wordpress.org/plugins/live-composer-page-builder/
 - https://elementor.com/
+- https://wordpress.org/plugins/tailor/
 
 ### Multiple Site Management
 - https://wordpress.org/plugins/iwp-client/
