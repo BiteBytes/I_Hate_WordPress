@@ -37,7 +37,7 @@
 These are the plugins I generally use on every site I make:
 * asdf
 
-Some of these may be old or outdated. Make sure you check when they were last updated.
+Some of the plugins below may be old or outdated. Make sure you check when they were last updated.
 
 ### Development
 - https://wordpress.org/plugins/what-the-file/
